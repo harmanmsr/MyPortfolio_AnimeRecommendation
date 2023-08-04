@@ -53,8 +53,8 @@ This dataset "animes.csv" contains information about anime, including title, syn
 - For the genre column, there are no missing values based on the information provided, so no special handling is required.
 
 2. Synopsis and Genre Text Representation:
-To convert synopsis and genre text into vector representation, the following steps can be taken:
 
+To convert synopsis and genre text into vector representation, the following steps can be taken:
 - Synopsis:
   - Using Rake-NLTK library for keyword extraction from synopsis text.
   - Each synopsis is converted into a list of generated keywords.
