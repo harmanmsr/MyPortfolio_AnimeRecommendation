@@ -48,7 +48,6 @@ This dataset "animes.csv" contains information about anime, including title, syn
   - 'link' (URL to the anime page on MyAnimeList platform).
 
 # Data Preparation
-## Teknik Data Preparation:
 1. Missing Value Handling:
 - For the synopsis column, if there is a missing value, the value is filled with an empty string (" ").
 - For the genre column, there are no missing values based on the information provided, so no special handling is required.
