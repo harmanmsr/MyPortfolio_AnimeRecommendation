@@ -30,7 +30,7 @@ The dataset used comes from the [Kaggle](https://www.kaggle.com/datasets/marless
 ## Overview Dataset:
 This dataset "animes.csv" contains information about anime, including title, synopsis, genre, number, episodes, popularity, rating, score, and more.
 
-### Karakteristik Data:
+### Data Characteristics:
 
 - The dataset has 19311 rows, 12 columns
 - In the dataset columns consist of:
