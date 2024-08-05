@@ -1,4 +1,4 @@
-# Domain Proyek
+# Project Domain
 The domain of this project is the entertainment and animation industry, specifically in the context of anime recommendations. Anime is a popular form of entertainment among Japanese culture lovers and has many fans around the world. An anime recommendation system can help users find new anime that match their preferences and interests.
 
 ## Background
